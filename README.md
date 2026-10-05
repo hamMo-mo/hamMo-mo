@@ -1,3 +1,7 @@
+<img width="849" height="478" alt="image" src="https://github.com/user-attachments/assets/6b3ca8cd-8df0-4b04-9622-ddc4ec33f8f2" />
+
+
+
 ```typescript
 const devProfile = {
   username: "hamMo-mo",
