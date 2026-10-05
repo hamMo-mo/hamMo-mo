@@ -1,16 +1,20 @@
-## Hi there 👋
+```typescript
+const devProfile = {
+  username: "hamMo-mo",
+  role: "Software Developer | Business Informatics",
+  
+  stack: {
+    architecture: ["Turborepo", "Docker", "Linux"],
+    frontend: ["TypeScript", "Next.js"],
+    automation: ["PostgreSQL", "n8n", "AI Agents"]
+  },
+  
+  currentFocus: [
+    "Building multi-tenant white-label web applications",
+    "Exploring LLM pipelines and agentic coding workflows"
+  ],
 
-<!--
-**hamMo-mo/hamMo-mo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  execute() {
+    console.log("Ready to build. Feel free to open a PR or drop a message!");
+  }
+};
